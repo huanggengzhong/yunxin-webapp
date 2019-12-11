@@ -10,25 +10,25 @@ webpackJsonp([6],{
 
 
 /* styles */
-__webpack_require__(/*! !vue-style-loader!css-loader?sourceMap!../../~/vue-loader/lib/style-compiler/index?{"id":"data-v-3dbe9b44","scoped":false,"hasInlineConfig":true}!../../~/vux-loader/src/style-loader.js!../../~/vue-loader/lib/selector?type=styles&index=0!./TeamManage.vue */ 505)
+__webpack_require__(/*! !vue-loader/~/vue-style-loader!css-loader?sourceMap!../../~/_vue-loader@11.3.4@vue-loader/lib/style-compiler/index?{"id":"data-v-3dbe9b44","scoped":false,"hasInlineConfig":true}!../../~/_vux-loader@1.2.9@vux-loader/src/style-loader.js!../../~/_vue-loader@11.3.4@vue-loader/lib/selector?type=styles&index=0!./TeamManage.vue */ 505)
 
-var Component = __webpack_require__(/*! ../../~/vue-loader/lib/component-normalizer */ 2)(
+var Component = __webpack_require__(/*! ../../~/_vue-loader@11.3.4@vue-loader/lib/component-normalizer */ 2)(
   /* script */
-  __webpack_require__(/*! !babel-loader!../../~/vux-loader/src/script-loader.js!../../~/vue-loader/lib/selector?type=script&index=0!./TeamManage.vue */ 452),
+  __webpack_require__(/*! !babel-loader!../../~/_vux-loader@1.2.9@vux-loader/src/script-loader.js!../../~/_vue-loader@11.3.4@vue-loader/lib/selector?type=script&index=0!./TeamManage.vue */ 452),
   /* template */
-  __webpack_require__(/*! !../../~/vue-loader/lib/template-compiler/index?{"id":"data-v-3dbe9b44"}!../../~/vux-loader/src/before-template-compiler-loader.js!../../~/vux-loader/src/template-loader.js!../../~/vue-loader/lib/selector?type=template&index=0!./TeamManage.vue */ 482),
+  __webpack_require__(/*! !../../~/_vue-loader@11.3.4@vue-loader/lib/template-compiler/index?{"id":"data-v-3dbe9b44"}!../../~/_vux-loader@1.2.9@vux-loader/src/before-template-compiler-loader.js!../../~/_vux-loader@1.2.9@vux-loader/src/template-loader.js!../../~/_vue-loader@11.3.4@vue-loader/lib/selector?type=template&index=0!./TeamManage.vue */ 482),
   /* scopeId */
   null,
   /* cssModules */
   null
 )
-Component.options.__file = "D:\\Project\\javascript\\NIM_Web_Demo_H5\\src\\pages\\TeamManage.vue"
+Component.options.__file = "C:\\Users\\huanggz\\Desktop\\study\\NIM_Web_Demo_H5\\src\\pages\\TeamManage.vue"
 if (Component.esModule && Object.keys(Component.esModule).some(function (key) {return key !== "default" && key !== "__esModule"})) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] TeamManage.vue: functional components are not supported with templates, they should use render functions.")}
 
 /* hot reload */
 if (false) {(function () {
-  var hotAPI = require("vue-hot-reload-api")
+  var hotAPI = require("vue-loader/node_modules/vue-hot-reload-api")
   hotAPI.install(require("vue"), false)
   if (!hotAPI.compatible) return
   module.hot.accept()
@@ -47,9 +47,9 @@ module.exports = Component.exports
 /***/ 362:
 /* no static exports found */
 /* all exports used */
-/*!*********************************************************************************************************************************************************!*\
-  !*** ./~/babel-loader/lib!./~/vux-loader/src/script-loader.js!./~/vue-loader/lib/selector.js?type=script&index=0!./src/pages/components/TeamMember.vue ***!
-  \*********************************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************************************************************************!*\
+  !*** ./~/_babel-loader@6.4.1@babel-loader/lib!./~/_vux-loader@1.2.9@vux-loader/src/script-loader.js!./~/_vue-loader@11.3.4@vue-loader/lib/selector.js?type=script&index=0!./src/pages/components/TeamMember.vue ***!
+  \******************************************************************************************************************************************************************************************************************/
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -57,7 +57,7 @@ module.exports = Component.exports
 
 exports.__esModule = true;
 
-var _assign = __webpack_require__(/*! babel-runtime/core-js/object/assign */ 8);
+var _assign = __webpack_require__(/*! babel-runtime/core-js/object/assign */ 9);
 
 var _assign2 = _interopRequireDefault(_assign);
 
@@ -220,17 +220,17 @@ module.exports = exports['default'];
 /***/ 369:
 /* no static exports found */
 /* all exports used */
-/*!************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./~/css-loader?sourceMap!./~/vue-loader/lib/style-compiler?{"id":"data-v-1cc8d8fe","scoped":true,"hasInlineConfig":true}!./~/vux-loader/src/style-loader.js!./~/vue-loader/lib/selector.js?type=styles&index=0!./src/pages/components/TeamMember.vue ***!
-  \************************************************************************************************************************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./~/_css-loader@0.27.3@css-loader?sourceMap!./~/_vue-loader@11.3.4@vue-loader/lib/style-compiler?{"id":"data-v-1cc8d8fe","scoped":true,"hasInlineConfig":true}!./~/_vux-loader@1.2.9@vux-loader/src/style-loader.js!./~/_vue-loader@11.3.4@vue-loader/lib/selector.js?type=styles&index=0!./src/pages/components/TeamMember.vue ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ (function(module, exports, __webpack_require__) {
 
-exports = module.exports = __webpack_require__(/*! ../../../~/css-loader/lib/css-base.js */ 4)(true);
+exports = module.exports = __webpack_require__(/*! ../../../~/_css-loader@0.27.3@css-loader/lib/css-base.js */ 4)(true);
 // imports
 
 
 // module
-exports.push([module.i, "\n.m-members[data-v-1cc8d8fe] {\r\n  display: -webkit-box;\r\n  display: -webkit-flex;\r\n  display: -moz-box;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  -webkit-flex-wrap: wrap;\r\n      -ms-flex-wrap: wrap;\r\n          flex-wrap: wrap;\r\n  margin: 0 auto;\r\n  text-align: center;\r\n  width: 100%;\n}\n.m-members img.avatar[data-v-1cc8d8fe]{\r\n  width: 3.8rem;\r\n  height: 3.8rem;\r\n  -webkit-box-flex: 0;\r\n  -webkit-flex: 0 1 auto;\r\n     -moz-box-flex: 0;\r\n      -ms-flex: 0 1 auto;\r\n          flex: 0 1 auto;\n}\n.m-members .u-member[data-v-1cc8d8fe] {\r\n  display: -webkit-box;\r\n  display: -webkit-flex;\r\n  display: -moz-box;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  position: relative;\r\n  -webkit-box-orient: vertical;\r\n  -webkit-box-direction: normal;\r\n  -webkit-flex-direction: column;\r\n     -moz-box-orient: vertical;\r\n     -moz-box-direction: normal;\r\n      -ms-flex-direction: column;\r\n          flex-direction: column;\r\n  -webkit-box-align: center;\r\n  -webkit-align-items: center;\r\n     -moz-box-align: center;\r\n      -ms-flex-align: center;\r\n          align-items: center;\r\n  width: 25%;\r\n  margin: .5rem 0;\n}\n.m-members .u-member .remove[data-v-1cc8d8fe], .m-members .u-member .manager[data-v-1cc8d8fe], .m-members .u-member .owner[data-v-1cc8d8fe]{\r\n  display: inline-block;\r\n  position: absolute;\r\n  bottom: 1.1rem;\r\n  right: 0;\r\n  width: 2rem;\r\n  height: 2rem;\r\n  background: url(http://yx-web.nos.netease.com/webdoc/h5/im/icons.png);\r\n  background-position: -10.3rem 0;\r\n  background-size: 20rem\n}\n.m-members .u-member .owner[data-v-1cc8d8fe] {\r\n  background-position: -10.3rem -2.7rem;\n}\n.m-members .u-member .remove[data-v-1cc8d8fe] {\r\n  top: 0;\r\n  bottom: auto;\r\n  right: 0;\r\n  width: 2.4rem;\r\n  height: 2.4rem;\r\n  background-position: -10.1rem -5.1rem;\n}\n.m-members .u-member span[data-v-1cc8d8fe] {\r\n  max-width: 100%;\r\n  overflow: hidden;\r\n  text-overflow: ellipsis;\r\n  white-space: nowrap;\n}\n.m-members.s-bg-white[data-v-1cc8d8fe] {\r\n  background-color: white;\n}\r\n\r\n", "", {"version":3,"sources":["D:/Project/javascript/NIM_Web_Demo_H5/src/pages/components/TeamMember.vue"],"names":[],"mappings":";AAwKA;EACE,qBAAc;EAAd,sBAAc;EAAd,kBAAc;EAAd,qBAAc;EAAd,cAAc;EACd,wBAAgB;MAAhB,oBAAgB;UAAhB,gBAAgB;EAChB,eAAe;EACf,mBAAmB;EACnB,YAAY;CAmDb;AAjDC;EACE,cAAc;EACd,eAAe;EACf,oBAAe;EAAf,uBAAe;KAAf,iBAAe;MAAf,mBAAe;UAAf,eAAe;CAChB;AAED;EACE,qBAAc;EAAd,sBAAc;EAAd,kBAAc;EAAd,qBAAc;EAAd,cAAc;EACd,mBAAmB;EACnB,6BAAuB;EAAvB,8BAAuB;EAAvB,+BAAuB;KAAvB,0BAAuB;KAAvB,2BAAuB;MAAvB,2BAAuB;UAAvB,uBAAuB;EACvB,0BAAoB;EAApB,4BAAoB;KAApB,uBAAoB;MAApB,uBAAoB;UAApB,oBAAoB;EACpB,WAAW;EACX,gBAAgB;CAgCjB;AA9BC;EACE,sBAAsB;EACtB,mBAAmB;EACnB,eAAe;EACf,SAAS;EACT,YAAY;EACZ,aAAa;EACb,sEAAsE;EACtE,gCAAgC;EAChC,sBAAsB;CACvB;AACD;EACE,sCAAsC;CACvC;AAED;EACE,OAAO;EACP,aAAa;EACb,SAAS;EACT,cAAc;EACd,eAAe;EACf,sCAAsC;CACvC;AAED;EACE,gBAAgB;EAChB,iBAAiB;EACjB,wBAAwB;EACxB,oBAAoB;CACrB;AAGH;EACE,wBAAwB;CACzB","file":"TeamMember.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\r\n.m-members {\r\n  display: flex;\r\n  flex-wrap: wrap;\r\n  margin: 0 auto;\r\n  text-align: center;\r\n  width: 100%;\r\n\r\n  img.avatar{\r\n    width: 3.8rem;\r\n    height: 3.8rem;\r\n    flex: 0 1 auto;\r\n  }\r\n\r\n  .u-member {\r\n    display: flex;\r\n    position: relative;\r\n    flex-direction: column;\r\n    align-items: center;\r\n    width: 25%;\r\n    margin: .5rem 0;\r\n\r\n    .remove, .manager, .owner{\r\n      display: inline-block;\r\n      position: absolute;\r\n      bottom: 1.1rem;\r\n      right: 0;\r\n      width: 2rem;\r\n      height: 2rem;\r\n      background: url(http://yx-web.nos.netease.com/webdoc/h5/im/icons.png);\r\n      background-position: -10.3rem 0;\r\n      background-size: 20rem\r\n    }\r\n    .owner {\r\n      background-position: -10.3rem -2.7rem;\r\n    }\r\n\r\n    .remove {\r\n      top: 0;\r\n      bottom: auto;\r\n      right: 0;\r\n      width: 2.4rem;\r\n      height: 2.4rem;\r\n      background-position: -10.1rem -5.1rem;\r\n    }\r\n\r\n    span {\r\n      max-width: 100%;\r\n      overflow: hidden;\r\n      text-overflow: ellipsis;\r\n      white-space: nowrap;\r\n    }\r\n  }\r\n\r\n  &.s-bg-white{\r\n    background-color: white;\r\n  }\r\n}\r\n\r\n"],"sourceRoot":""}]);
+exports.push([module.i, "\n.m-members[data-v-1cc8d8fe] {\r\n  display: -webkit-box;\r\n  display: -webkit-flex;\r\n  display: -moz-box;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  -webkit-flex-wrap: wrap;\r\n      -ms-flex-wrap: wrap;\r\n          flex-wrap: wrap;\r\n  margin: 0 auto;\r\n  text-align: center;\r\n  width: 100%;\n}\n.m-members img.avatar[data-v-1cc8d8fe]{\r\n  width: 3.8rem;\r\n  height: 3.8rem;\r\n  -webkit-box-flex: 0;\r\n  -webkit-flex: 0 1 auto;\r\n     -moz-box-flex: 0;\r\n      -ms-flex: 0 1 auto;\r\n          flex: 0 1 auto;\n}\n.m-members .u-member[data-v-1cc8d8fe] {\r\n  display: -webkit-box;\r\n  display: -webkit-flex;\r\n  display: -moz-box;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  position: relative;\r\n  -webkit-box-orient: vertical;\r\n  -webkit-box-direction: normal;\r\n  -webkit-flex-direction: column;\r\n     -moz-box-orient: vertical;\r\n     -moz-box-direction: normal;\r\n      -ms-flex-direction: column;\r\n          flex-direction: column;\r\n  -webkit-box-align: center;\r\n  -webkit-align-items: center;\r\n     -moz-box-align: center;\r\n      -ms-flex-align: center;\r\n          align-items: center;\r\n  width: 25%;\r\n  margin: .5rem 0;\n}\n.m-members .u-member .remove[data-v-1cc8d8fe], .m-members .u-member .manager[data-v-1cc8d8fe], .m-members .u-member .owner[data-v-1cc8d8fe]{\r\n  display: inline-block;\r\n  position: absolute;\r\n  bottom: 1.1rem;\r\n  right: 0;\r\n  width: 2rem;\r\n  height: 2rem;\r\n  background: url(http://yx-web.nos.netease.com/webdoc/h5/im/icons.png);\r\n  background-position: -10.3rem 0;\r\n  background-size: 20rem\n}\n.m-members .u-member .owner[data-v-1cc8d8fe] {\r\n  background-position: -10.3rem -2.7rem;\n}\n.m-members .u-member .remove[data-v-1cc8d8fe] {\r\n  top: 0;\r\n  bottom: auto;\r\n  right: 0;\r\n  width: 2.4rem;\r\n  height: 2.4rem;\r\n  background-position: -10.1rem -5.1rem;\n}\n.m-members .u-member span[data-v-1cc8d8fe] {\r\n  max-width: 100%;\r\n  overflow: hidden;\r\n  text-overflow: ellipsis;\r\n  white-space: nowrap;\n}\n.m-members.s-bg-white[data-v-1cc8d8fe] {\r\n  background-color: white;\n}\r\n\r\n", "", {"version":3,"sources":["C:/Users/huanggz/Desktop/study/NIM_Web_Demo_H5/src/pages/components/TeamMember.vue"],"names":[],"mappings":";AAwKA;EACE,qBAAc;EAAd,sBAAc;EAAd,kBAAc;EAAd,qBAAc;EAAd,cAAc;EACd,wBAAgB;MAAhB,oBAAgB;UAAhB,gBAAgB;EAChB,eAAe;EACf,mBAAmB;EACnB,YAAY;CAmDb;AAjDC;EACE,cAAc;EACd,eAAe;EACf,oBAAe;EAAf,uBAAe;KAAf,iBAAe;MAAf,mBAAe;UAAf,eAAe;CAChB;AAED;EACE,qBAAc;EAAd,sBAAc;EAAd,kBAAc;EAAd,qBAAc;EAAd,cAAc;EACd,mBAAmB;EACnB,6BAAuB;EAAvB,8BAAuB;EAAvB,+BAAuB;KAAvB,0BAAuB;KAAvB,2BAAuB;MAAvB,2BAAuB;UAAvB,uBAAuB;EACvB,0BAAoB;EAApB,4BAAoB;KAApB,uBAAoB;MAApB,uBAAoB;UAApB,oBAAoB;EACpB,WAAW;EACX,gBAAgB;CAgCjB;AA9BC;EACE,sBAAsB;EACtB,mBAAmB;EACnB,eAAe;EACf,SAAS;EACT,YAAY;EACZ,aAAa;EACb,sEAAsE;EACtE,gCAAgC;EAChC,sBAAsB;CACvB;AACD;EACE,sCAAsC;CACvC;AAED;EACE,OAAO;EACP,aAAa;EACb,SAAS;EACT,cAAc;EACd,eAAe;EACf,sCAAsC;CACvC;AAED;EACE,gBAAgB;EAChB,iBAAiB;EACjB,wBAAwB;EACxB,oBAAoB;CACrB;AAGH;EACE,wBAAwB;CACzB","file":"TeamMember.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\r\n.m-members {\r\n  display: flex;\r\n  flex-wrap: wrap;\r\n  margin: 0 auto;\r\n  text-align: center;\r\n  width: 100%;\r\n\r\n  img.avatar{\r\n    width: 3.8rem;\r\n    height: 3.8rem;\r\n    flex: 0 1 auto;\r\n  }\r\n\r\n  .u-member {\r\n    display: flex;\r\n    position: relative;\r\n    flex-direction: column;\r\n    align-items: center;\r\n    width: 25%;\r\n    margin: .5rem 0;\r\n\r\n    .remove, .manager, .owner{\r\n      display: inline-block;\r\n      position: absolute;\r\n      bottom: 1.1rem;\r\n      right: 0;\r\n      width: 2rem;\r\n      height: 2rem;\r\n      background: url(http://yx-web.nos.netease.com/webdoc/h5/im/icons.png);\r\n      background-position: -10.3rem 0;\r\n      background-size: 20rem\r\n    }\r\n    .owner {\r\n      background-position: -10.3rem -2.7rem;\r\n    }\r\n\r\n    .remove {\r\n      top: 0;\r\n      bottom: auto;\r\n      right: 0;\r\n      width: 2.4rem;\r\n      height: 2.4rem;\r\n      background-position: -10.1rem -5.1rem;\r\n    }\r\n\r\n    span {\r\n      max-width: 100%;\r\n      overflow: hidden;\r\n      text-overflow: ellipsis;\r\n      white-space: nowrap;\r\n    }\r\n  }\r\n\r\n  &.s-bg-white{\r\n    background-color: white;\r\n  }\r\n}\r\n\r\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -240,9 +240,9 @@ exports.push([module.i, "\n.m-members[data-v-1cc8d8fe] {\r\n  display: -webkit-b
 /***/ 372:
 /* no static exports found */
 /* all exports used */
-/*!************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./~/vue-loader/lib/template-compiler?{"id":"data-v-1cc8d8fe"}!./~/vux-loader/src/before-template-compiler-loader.js!./~/vux-loader/src/template-loader.js!./~/vue-loader/lib/selector.js?type=template&index=0!./src/pages/components/TeamMember.vue ***!
-  \************************************************************************************************************************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./~/_vue-loader@11.3.4@vue-loader/lib/template-compiler?{"id":"data-v-1cc8d8fe"}!./~/_vux-loader@1.2.9@vux-loader/src/before-template-compiler-loader.js!./~/_vux-loader@1.2.9@vux-loader/src/template-loader.js!./~/_vue-loader@11.3.4@vue-loader/lib/selector.js?type=template&index=0!./src/pages/components/TeamMember.vue ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -268,7 +268,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
       staticClass: "u-member",
       on: {
         "click": function($event) {
-          _vm.onMemberClick(member)
+          return _vm.onMemberClick(member)
         }
       }
     }, [_c('img', {
@@ -280,7 +280,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
       staticClass: "remove",
       on: {
         "click": function($event) {
-          _vm.remove($event, member)
+          return _vm.remove($event, member)
         }
       }
     }) : _vm._e(), _vm._v(" "), (member.type !== "normal") ? _c('span', {
@@ -301,7 +301,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     staticClass: "u-member",
     on: {
       "click": function($event) {
-        _vm.triggerRemove()
+        return _vm.triggerRemove()
       }
     }
   }, [_c('img', {
@@ -316,7 +316,7 @@ module.exports.render._withStripped = true
 if (false) {
   module.hot.accept()
   if (module.hot.data) {
-     require("vue-hot-reload-api").rerender("data-v-1cc8d8fe", module.exports)
+     require("vue-loader/node_modules/vue-hot-reload-api").rerender("data-v-1cc8d8fe", module.exports)
   }
 }
 
@@ -325,25 +325,25 @@ if (false) {
 /***/ 375:
 /* no static exports found */
 /* all exports used */
-/*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./~/vue-style-loader!./~/css-loader?sourceMap!./~/vue-loader/lib/style-compiler?{"id":"data-v-1cc8d8fe","scoped":true,"hasInlineConfig":true}!./~/vux-loader/src/style-loader.js!./~/vue-loader/lib/selector.js?type=styles&index=0!./src/pages/components/TeamMember.vue ***!
-  \*********************************************************************************************************************************************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./~/_vue-style-loader@2.0.5@vue-style-loader!./~/_css-loader@0.27.3@css-loader?sourceMap!./~/_vue-loader@11.3.4@vue-loader/lib/style-compiler?{"id":"data-v-1cc8d8fe","scoped":true,"hasInlineConfig":true}!./~/_vux-loader@1.2.9@vux-loader/src/style-loader.js!./~/_vue-loader@11.3.4@vue-loader/lib/selector.js?type=styles&index=0!./src/pages/components/TeamMember.vue ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ (function(module, exports, __webpack_require__) {
 
 // style-loader: Adds some css to the DOM by adding a <style> tag
 
 // load the styles
-var content = __webpack_require__(/*! !../../../~/css-loader?sourceMap!../../../~/vue-loader/lib/style-compiler?{"id":"data-v-1cc8d8fe","scoped":true,"hasInlineConfig":true}!../../../~/vux-loader/src/style-loader.js!../../../~/vue-loader/lib/selector.js?type=styles&index=0!./TeamMember.vue */ 369);
+var content = __webpack_require__(/*! !../../../~/_css-loader@0.27.3@css-loader?sourceMap!../../../~/_vue-loader@11.3.4@vue-loader/lib/style-compiler?{"id":"data-v-1cc8d8fe","scoped":true,"hasInlineConfig":true}!../../../~/_vux-loader@1.2.9@vux-loader/src/style-loader.js!../../../~/_vue-loader@11.3.4@vue-loader/lib/selector.js?type=styles&index=0!./TeamMember.vue */ 369);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(/*! ../../../~/vue-style-loader/lib/addStylesClient.js */ 5)("d06946a2", content, false);
+var update = __webpack_require__(/*! ../../../~/_vue-style-loader@2.0.5@vue-style-loader/lib/addStylesClient.js */ 5)("7b066439", content, false);
 // Hot Module Replacement
 if(false) {
  // When the styles change, update the <style> tags
  if(!content.locals) {
-   module.hot.accept("!!../../../node_modules/css-loader/index.js?sourceMap!../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"id\":\"data-v-1cc8d8fe\",\"scoped\":true,\"hasInlineConfig\":true}!../../../node_modules/vux-loader/src/style-loader.js!../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./TeamMember.vue", function() {
-     var newContent = require("!!../../../node_modules/css-loader/index.js?sourceMap!../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"id\":\"data-v-1cc8d8fe\",\"scoped\":true,\"hasInlineConfig\":true}!../../../node_modules/vux-loader/src/style-loader.js!../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./TeamMember.vue");
+   module.hot.accept("!!../../../node_modules/_css-loader@0.27.3@css-loader/index.js?sourceMap!../../../node_modules/_vue-loader@11.3.4@vue-loader/lib/style-compiler/index.js?{\"id\":\"data-v-1cc8d8fe\",\"scoped\":true,\"hasInlineConfig\":true}!../../../node_modules/_vux-loader@1.2.9@vux-loader/src/style-loader.js!../../../node_modules/_vue-loader@11.3.4@vue-loader/lib/selector.js?type=styles&index=0!./TeamMember.vue", function() {
+     var newContent = require("!!../../../node_modules/_css-loader@0.27.3@css-loader/index.js?sourceMap!../../../node_modules/_vue-loader@11.3.4@vue-loader/lib/style-compiler/index.js?{\"id\":\"data-v-1cc8d8fe\",\"scoped\":true,\"hasInlineConfig\":true}!../../../node_modules/_vux-loader@1.2.9@vux-loader/src/style-loader.js!../../../node_modules/_vue-loader@11.3.4@vue-loader/lib/selector.js?type=styles&index=0!./TeamMember.vue");
      if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
      update(newContent);
    });
@@ -364,25 +364,25 @@ if(false) {
 
 
 /* styles */
-__webpack_require__(/*! !vue-style-loader!css-loader?sourceMap!../../../~/vue-loader/lib/style-compiler/index?{"id":"data-v-1cc8d8fe","scoped":true,"hasInlineConfig":true}!../../../~/vux-loader/src/style-loader.js!../../../~/vue-loader/lib/selector?type=styles&index=0!./TeamMember.vue */ 375)
+__webpack_require__(/*! !vue-loader/~/vue-style-loader!css-loader?sourceMap!../../../~/_vue-loader@11.3.4@vue-loader/lib/style-compiler/index?{"id":"data-v-1cc8d8fe","scoped":true,"hasInlineConfig":true}!../../../~/_vux-loader@1.2.9@vux-loader/src/style-loader.js!../../../~/_vue-loader@11.3.4@vue-loader/lib/selector?type=styles&index=0!./TeamMember.vue */ 375)
 
-var Component = __webpack_require__(/*! ../../../~/vue-loader/lib/component-normalizer */ 2)(
+var Component = __webpack_require__(/*! ../../../~/_vue-loader@11.3.4@vue-loader/lib/component-normalizer */ 2)(
   /* script */
-  __webpack_require__(/*! !babel-loader!../../../~/vux-loader/src/script-loader.js!../../../~/vue-loader/lib/selector?type=script&index=0!./TeamMember.vue */ 362),
+  __webpack_require__(/*! !babel-loader!../../../~/_vux-loader@1.2.9@vux-loader/src/script-loader.js!../../../~/_vue-loader@11.3.4@vue-loader/lib/selector?type=script&index=0!./TeamMember.vue */ 362),
   /* template */
-  __webpack_require__(/*! !../../../~/vue-loader/lib/template-compiler/index?{"id":"data-v-1cc8d8fe"}!../../../~/vux-loader/src/before-template-compiler-loader.js!../../../~/vux-loader/src/template-loader.js!../../../~/vue-loader/lib/selector?type=template&index=0!./TeamMember.vue */ 372),
+  __webpack_require__(/*! !../../../~/_vue-loader@11.3.4@vue-loader/lib/template-compiler/index?{"id":"data-v-1cc8d8fe"}!../../../~/_vux-loader@1.2.9@vux-loader/src/before-template-compiler-loader.js!../../../~/_vux-loader@1.2.9@vux-loader/src/template-loader.js!../../../~/_vue-loader@11.3.4@vue-loader/lib/selector?type=template&index=0!./TeamMember.vue */ 372),
   /* scopeId */
   "data-v-1cc8d8fe",
   /* cssModules */
   null
 )
-Component.options.__file = "D:\\Project\\javascript\\NIM_Web_Demo_H5\\src\\pages\\components\\TeamMember.vue"
+Component.options.__file = "C:\\Users\\huanggz\\Desktop\\study\\NIM_Web_Demo_H5\\src\\pages\\components\\TeamMember.vue"
 if (Component.esModule && Object.keys(Component.esModule).some(function (key) {return key !== "default" && key !== "__esModule"})) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] TeamMember.vue: functional components are not supported with templates, they should use render functions.")}
 
 /* hot reload */
 if (false) {(function () {
-  var hotAPI = require("vue-hot-reload-api")
+  var hotAPI = require("vue-loader/node_modules/vue-hot-reload-api")
   hotAPI.install(require("vue"), false)
   if (!hotAPI.compatible) return
   module.hot.accept()
@@ -401,9 +401,9 @@ module.exports = Component.exports
 /***/ 452:
 /* no static exports found */
 /* all exports used */
-/*!**********************************************************************************************************************************************!*\
-  !*** ./~/babel-loader/lib!./~/vux-loader/src/script-loader.js!./~/vue-loader/lib/selector.js?type=script&index=0!./src/pages/TeamManage.vue ***!
-  \**********************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************************************************************!*\
+  !*** ./~/_babel-loader@6.4.1@babel-loader/lib!./~/_vux-loader@1.2.9@vux-loader/src/script-loader.js!./~/_vue-loader@11.3.4@vue-loader/lib/selector.js?type=script&index=0!./src/pages/TeamManage.vue ***!
+  \*******************************************************************************************************************************************************************************************************/
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -603,17 +603,17 @@ module.exports = exports['default'];
 /***/ 462:
 /* no static exports found */
 /* all exports used */
-/*!**************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./~/css-loader?sourceMap!./~/vue-loader/lib/style-compiler?{"id":"data-v-3dbe9b44","scoped":false,"hasInlineConfig":true}!./~/vux-loader/src/style-loader.js!./~/vue-loader/lib/selector.js?type=styles&index=0!./src/pages/TeamManage.vue ***!
-  \**************************************************************************************************************************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./~/_css-loader@0.27.3@css-loader?sourceMap!./~/_vue-loader@11.3.4@vue-loader/lib/style-compiler?{"id":"data-v-3dbe9b44","scoped":false,"hasInlineConfig":true}!./~/_vux-loader@1.2.9@vux-loader/src/style-loader.js!./~/_vue-loader@11.3.4@vue-loader/lib/selector.js?type=styles&index=0!./src/pages/TeamManage.vue ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ (function(module, exports, __webpack_require__) {
 
-exports = module.exports = __webpack_require__(/*! ../../~/css-loader/lib/css-base.js */ 4)(true);
+exports = module.exports = __webpack_require__(/*! ../../~/_css-loader@0.27.3@css-loader/lib/css-base.js */ 4)(true);
 // imports
 
 
 // module
-exports.push([module.i, "\n.g-window .m-article.p-teammanager {\n  display:-webkit-box;\n  display:-webkit-flex;\n  display:-moz-box;\n  display:-ms-flexbox;\n  display:flex;\n  background-color: #e6ebf0;\n}\n.g-window .m-article.p-teammanager .m-body {\n  overflow-y: scroll;\n  width: 100%;\n}\n.g-window .m-article.p-teammanager img.avatar{\n  width: 3.8rem;\n  height: 3.8rem;\n  -webkit-box-flex: 0;\n  -webkit-flex: 0 1 auto;\n     -moz-box-flex: 0;\n      -ms-flex: 0 1 auto;\n          flex: 0 1 auto;\n}\n.g-window .m-article.p-teammanager .m-group {\n  background-color: white;\n}\n.g-window .m-article.p-teammanager .m-group .weui-cells:after {\n  border-bottom-style: none;\n}\n.g-window .m-article.p-teammanager .m-group .weui-cell:before {\n  border: none;\n}\n.g-window .m-article.p-teammanager .m-group .weui-cell:after {\n  content: \" \";\n  position: absolute;\n  left: 0;\n  bottom: 0;\n  right: 0;\n  height: 1px;\n  border-bottom: 1px solid #D9D9D9;\n  color: #D9D9D9;\n  -webkit-transform-origin: 0 100%;\n     -moz-transform-origin: 0 100%;\n          transform-origin: 0 100%;\n  -webkit-transform: scaleY(0.5);\n     -moz-transform: scaleY(0.5);\n          transform: scaleY(0.5);\n  left: 15px;\n  right: 15px;\n}\n.g-window .m-article.p-teammanager .m-group .weui-btn {\n  margin: 1rem 5%;\n}\n.g-window .m-article.p-teammanager .m-group .weui-cell__ft{\n  max-width: 70%;\n  overflow: hidden;\n  text-overflow: ellipsis;\n  white-space: nowrap;\n  color:#aaa;\n}\n.g-window .m-article.p-teammanager .m-group + .m-group {\n  margin-top:1rem;\n}\n.g-window .m-article.p-teammanager .m-teaminfo {\n  display: -webkit-box;\n  display: -webkit-flex;\n  display: -moz-box;\n  display: -ms-flexbox;\n  display: flex;\n  -webkit-box-orient: horizontal;\n  -webkit-box-direction: normal;\n  -webkit-flex-direction: row;\n     -moz-box-orient: horizontal;\n     -moz-box-direction: normal;\n      -ms-flex-direction: row;\n          flex-direction: row;\n  -webkit-box-align: center;\n  -webkit-align-items: center;\n     -moz-box-align: center;\n      -ms-flex-align: center;\n          align-items: center;\n}\n.g-window .m-article.p-teammanager .m-teaminfo .u-info{\n  margin-left: 1rem;\n}\n.g-window .m-article.p-teammanager .m-teaminfo .u-info span{\n  color: #999;\n  font-size: 0.9rem;\n}\n", "", {"version":3,"sources":["D:/Project/javascript/NIM_Web_Demo_H5/src/pages/TeamManage.vue"],"names":[],"mappings":";AAyNA;EACE,oBAAa;EAAb,qBAAa;EAAb,iBAAa;EAAb,oBAAa;EAAb,aAAa;EACb,0BAA0B;CA6D3B;AA3DC;EACE,mBAAmB;EACnB,YAAY;CACb;AAED;EACE,cAAc;EACd,eAAe;EACf,oBAAe;EAAf,uBAAe;KAAf,iBAAe;MAAf,mBAAe;UAAf,eAAe;CAChB;AAED;EACE,wBAAwB;CAkCzB;AA9BC;EACE,0BAA0B;CAC3B;AACD;EACE,aAAa;CACd;AACD;EACE,aAAa;EACb,mBAAmB;EACnB,QAAQ;EACR,UAAU;EACV,SAAS;EACT,YAAY;EACZ,iCAAiC;EACjC,eAAe;EACf,iCAAyB;KAAzB,8BAAyB;UAAzB,yBAAyB;EACzB,+BAAuB;KAAvB,4BAAuB;UAAvB,uBAAuB;EACvB,WAAW;EACX,YAAY;CACb;AACD;EACE,gBAAgB;CACjB;AACD;EACE,eAAe;EACf,iBAAiB;EACjB,wBAAwB;EACxB,oBAAoB;EACpB,WAAW;CACZ;AAhCD;EACE,gBAAiB;CAClB;AAgCH;EACE,qBAAc;EAAd,sBAAc;EAAd,kBAAc;EAAd,qBAAc;EAAd,cAAc;EACd,+BAAoB;EAApB,8BAAoB;EAApB,4BAAoB;KAApB,4BAAoB;KAApB,2BAAoB;MAApB,wBAAoB;UAApB,oBAAoB;EACpB,0BAAoB;EAApB,4BAAoB;KAApB,uBAAoB;MAApB,uBAAoB;UAApB,oBAAoB;CAQrB;AAPC;EACE,kBAAkB;CAKnB;AAJC;EACE,YAAY;EACZ,kBAAkB;CACnB","file":"TeamManage.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.g-window .m-article.p-teammanager {\n  display:flex;\n  background-color: #e6ebf0;\n  \n  .m-body {\n    overflow-y: scroll;\n    width: 100%;\n  }\n\n  img.avatar{\n    width: 3.8rem;\n    height: 3.8rem;\n    flex: 0 1 auto;\n  }\n\n  .m-group {\n    background-color: white;\n    & + .m-group {\n      margin-top: 1rem;\n    }\n    .weui-cells:after {\n      border-bottom-style: none;\n    }\n    .weui-cell:before {\n      border: none;\n    }\n    .weui-cell:after {\n      content: \" \";\n      position: absolute;\n      left: 0;\n      bottom: 0;\n      right: 0;\n      height: 1px;\n      border-bottom: 1px solid #D9D9D9;\n      color: #D9D9D9;\n      transform-origin: 0 100%;\n      transform: scaleY(0.5);\n      left: 15px;\n      right: 15px;\n    }\n    .weui-btn {\n      margin: 1rem 5%;\n    }\n    .weui-cell__ft{\n      max-width: 70%;\n      overflow: hidden;\n      text-overflow: ellipsis;\n      white-space: nowrap;\n      color:#aaa;\n    }\n  }\n  .m-teaminfo {\n    display: flex;\n    flex-direction: row;\n    align-items: center;\n    .u-info{\n      margin-left: 1rem;\n      span{\n        color: #999;\n        font-size: 0.9rem;\n      }\n    }\n  }\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, "\n.g-window .m-article.p-teammanager {\n  display:-webkit-box;\n  display:-webkit-flex;\n  display:-moz-box;\n  display:-ms-flexbox;\n  display:flex;\n  background-color: #e6ebf0;\n}\n.g-window .m-article.p-teammanager .m-body {\n  overflow-y: scroll;\n  width: 100%;\n}\n.g-window .m-article.p-teammanager img.avatar{\n  width: 3.8rem;\n  height: 3.8rem;\n  -webkit-box-flex: 0;\n  -webkit-flex: 0 1 auto;\n     -moz-box-flex: 0;\n      -ms-flex: 0 1 auto;\n          flex: 0 1 auto;\n}\n.g-window .m-article.p-teammanager .m-group {\n  background-color: white;\n}\n.g-window .m-article.p-teammanager .m-group .weui-cells:after {\n  border-bottom-style: none;\n}\n.g-window .m-article.p-teammanager .m-group .weui-cell:before {\n  border: none;\n}\n.g-window .m-article.p-teammanager .m-group .weui-cell:after {\n  content: \" \";\n  position: absolute;\n  left: 0;\n  bottom: 0;\n  right: 0;\n  height: 1px;\n  border-bottom: 1px solid #D9D9D9;\n  color: #D9D9D9;\n  -webkit-transform-origin: 0 100%;\n     -moz-transform-origin: 0 100%;\n          transform-origin: 0 100%;\n  -webkit-transform: scaleY(0.5);\n     -moz-transform: scaleY(0.5);\n          transform: scaleY(0.5);\n  left: 15px;\n  right: 15px;\n}\n.g-window .m-article.p-teammanager .m-group .weui-btn {\n  margin: 1rem 5%;\n}\n.g-window .m-article.p-teammanager .m-group .weui-cell__ft{\n  max-width: 70%;\n  overflow: hidden;\n  text-overflow: ellipsis;\n  white-space: nowrap;\n  color:#aaa;\n}\n.g-window .m-article.p-teammanager .m-group + .m-group {\n  margin-top:1rem;\n}\n.g-window .m-article.p-teammanager .m-teaminfo {\n  display: -webkit-box;\n  display: -webkit-flex;\n  display: -moz-box;\n  display: -ms-flexbox;\n  display: flex;\n  -webkit-box-orient: horizontal;\n  -webkit-box-direction: normal;\n  -webkit-flex-direction: row;\n     -moz-box-orient: horizontal;\n     -moz-box-direction: normal;\n      -ms-flex-direction: row;\n          flex-direction: row;\n  -webkit-box-align: center;\n  -webkit-align-items: center;\n     -moz-box-align: center;\n      -ms-flex-align: center;\n          align-items: center;\n}\n.g-window .m-article.p-teammanager .m-teaminfo .u-info{\n  margin-left: 1rem;\n}\n.g-window .m-article.p-teammanager .m-teaminfo .u-info span{\n  color: #999;\n  font-size: 0.9rem;\n}\n", "", {"version":3,"sources":["C:/Users/huanggz/Desktop/study/NIM_Web_Demo_H5/src/pages/TeamManage.vue"],"names":[],"mappings":";AAyNA;EACE,oBAAa;EAAb,qBAAa;EAAb,iBAAa;EAAb,oBAAa;EAAb,aAAa;EACb,0BAA0B;CA6D3B;AA3DC;EACE,mBAAmB;EACnB,YAAY;CACb;AAED;EACE,cAAc;EACd,eAAe;EACf,oBAAe;EAAf,uBAAe;KAAf,iBAAe;MAAf,mBAAe;UAAf,eAAe;CAChB;AAED;EACE,wBAAwB;CAkCzB;AA9BC;EACE,0BAA0B;CAC3B;AACD;EACE,aAAa;CACd;AACD;EACE,aAAa;EACb,mBAAmB;EACnB,QAAQ;EACR,UAAU;EACV,SAAS;EACT,YAAY;EACZ,iCAAiC;EACjC,eAAe;EACf,iCAAyB;KAAzB,8BAAyB;UAAzB,yBAAyB;EACzB,+BAAuB;KAAvB,4BAAuB;UAAvB,uBAAuB;EACvB,WAAW;EACX,YAAY;CACb;AACD;EACE,gBAAgB;CACjB;AACD;EACE,eAAe;EACf,iBAAiB;EACjB,wBAAwB;EACxB,oBAAoB;EACpB,WAAW;CACZ;AAhCD;EACE,gBAAiB;CAClB;AAgCH;EACE,qBAAc;EAAd,sBAAc;EAAd,kBAAc;EAAd,qBAAc;EAAd,cAAc;EACd,+BAAoB;EAApB,8BAAoB;EAApB,4BAAoB;KAApB,4BAAoB;KAApB,2BAAoB;MAApB,wBAAoB;UAApB,oBAAoB;EACpB,0BAAoB;EAApB,4BAAoB;KAApB,uBAAoB;MAApB,uBAAoB;UAApB,oBAAoB;CAQrB;AAPC;EACE,kBAAkB;CAKnB;AAJC;EACE,YAAY;EACZ,kBAAkB;CACnB","file":"TeamManage.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.g-window .m-article.p-teammanager {\n  display:flex;\n  background-color: #e6ebf0;\n  \n  .m-body {\n    overflow-y: scroll;\n    width: 100%;\n  }\n\n  img.avatar{\n    width: 3.8rem;\n    height: 3.8rem;\n    flex: 0 1 auto;\n  }\n\n  .m-group {\n    background-color: white;\n    & + .m-group {\n      margin-top: 1rem;\n    }\n    .weui-cells:after {\n      border-bottom-style: none;\n    }\n    .weui-cell:before {\n      border: none;\n    }\n    .weui-cell:after {\n      content: \" \";\n      position: absolute;\n      left: 0;\n      bottom: 0;\n      right: 0;\n      height: 1px;\n      border-bottom: 1px solid #D9D9D9;\n      color: #D9D9D9;\n      transform-origin: 0 100%;\n      transform: scaleY(0.5);\n      left: 15px;\n      right: 15px;\n    }\n    .weui-btn {\n      margin: 1rem 5%;\n    }\n    .weui-cell__ft{\n      max-width: 70%;\n      overflow: hidden;\n      text-overflow: ellipsis;\n      white-space: nowrap;\n      color:#aaa;\n    }\n  }\n  .m-teaminfo {\n    display: flex;\n    flex-direction: row;\n    align-items: center;\n    .u-info{\n      margin-left: 1rem;\n      span{\n        color: #999;\n        font-size: 0.9rem;\n      }\n    }\n  }\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -623,9 +623,9 @@ exports.push([module.i, "\n.g-window .m-article.p-teammanager {\n  display:-webk
 /***/ 482:
 /* no static exports found */
 /* all exports used */
-/*!*************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./~/vue-loader/lib/template-compiler?{"id":"data-v-3dbe9b44"}!./~/vux-loader/src/before-template-compiler-loader.js!./~/vux-loader/src/template-loader.js!./~/vue-loader/lib/selector.js?type=template&index=0!./src/pages/TeamManage.vue ***!
-  \*************************************************************************************************************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./~/_vue-loader@11.3.4@vue-loader/lib/template-compiler?{"id":"data-v-3dbe9b44"}!./~/_vux-loader@1.2.9@vux-loader/src/before-template-compiler-loader.js!./~/_vux-loader@1.2.9@vux-loader/src/template-loader.js!./~/_vue-loader@11.3.4@vue-loader/lib/selector.js?type=template&index=0!./src/pages/TeamManage.vue ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -821,7 +821,7 @@ module.exports.render._withStripped = true
 if (false) {
   module.hot.accept()
   if (module.hot.data) {
-     require("vue-hot-reload-api").rerender("data-v-3dbe9b44", module.exports)
+     require("vue-loader/node_modules/vue-hot-reload-api").rerender("data-v-3dbe9b44", module.exports)
   }
 }
 
@@ -830,25 +830,25 @@ if (false) {
 /***/ 505:
 /* no static exports found */
 /* all exports used */
-/*!***********************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./~/vue-style-loader!./~/css-loader?sourceMap!./~/vue-loader/lib/style-compiler?{"id":"data-v-3dbe9b44","scoped":false,"hasInlineConfig":true}!./~/vux-loader/src/style-loader.js!./~/vue-loader/lib/selector.js?type=styles&index=0!./src/pages/TeamManage.vue ***!
-  \***********************************************************************************************************************************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./~/_vue-style-loader@2.0.5@vue-style-loader!./~/_css-loader@0.27.3@css-loader?sourceMap!./~/_vue-loader@11.3.4@vue-loader/lib/style-compiler?{"id":"data-v-3dbe9b44","scoped":false,"hasInlineConfig":true}!./~/_vux-loader@1.2.9@vux-loader/src/style-loader.js!./~/_vue-loader@11.3.4@vue-loader/lib/selector.js?type=styles&index=0!./src/pages/TeamManage.vue ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ (function(module, exports, __webpack_require__) {
 
 // style-loader: Adds some css to the DOM by adding a <style> tag
 
 // load the styles
-var content = __webpack_require__(/*! !../../~/css-loader?sourceMap!../../~/vue-loader/lib/style-compiler?{"id":"data-v-3dbe9b44","scoped":false,"hasInlineConfig":true}!../../~/vux-loader/src/style-loader.js!../../~/vue-loader/lib/selector.js?type=styles&index=0!./TeamManage.vue */ 462);
+var content = __webpack_require__(/*! !../../~/_css-loader@0.27.3@css-loader?sourceMap!../../~/_vue-loader@11.3.4@vue-loader/lib/style-compiler?{"id":"data-v-3dbe9b44","scoped":false,"hasInlineConfig":true}!../../~/_vux-loader@1.2.9@vux-loader/src/style-loader.js!../../~/_vue-loader@11.3.4@vue-loader/lib/selector.js?type=styles&index=0!./TeamManage.vue */ 462);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(/*! ../../~/vue-style-loader/lib/addStylesClient.js */ 5)("208ad512", content, false);
+var update = __webpack_require__(/*! ../../~/_vue-style-loader@2.0.5@vue-style-loader/lib/addStylesClient.js */ 5)("6dcd5e52", content, false);
 // Hot Module Replacement
 if(false) {
  // When the styles change, update the <style> tags
  if(!content.locals) {
-   module.hot.accept("!!../../node_modules/css-loader/index.js?sourceMap!../../node_modules/vue-loader/lib/style-compiler/index.js?{\"id\":\"data-v-3dbe9b44\",\"scoped\":false,\"hasInlineConfig\":true}!../../node_modules/vux-loader/src/style-loader.js!../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./TeamManage.vue", function() {
-     var newContent = require("!!../../node_modules/css-loader/index.js?sourceMap!../../node_modules/vue-loader/lib/style-compiler/index.js?{\"id\":\"data-v-3dbe9b44\",\"scoped\":false,\"hasInlineConfig\":true}!../../node_modules/vux-loader/src/style-loader.js!../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./TeamManage.vue");
+   module.hot.accept("!!../../node_modules/_css-loader@0.27.3@css-loader/index.js?sourceMap!../../node_modules/_vue-loader@11.3.4@vue-loader/lib/style-compiler/index.js?{\"id\":\"data-v-3dbe9b44\",\"scoped\":false,\"hasInlineConfig\":true}!../../node_modules/_vux-loader@1.2.9@vux-loader/src/style-loader.js!../../node_modules/_vue-loader@11.3.4@vue-loader/lib/selector.js?type=styles&index=0!./TeamManage.vue", function() {
+     var newContent = require("!!../../node_modules/_css-loader@0.27.3@css-loader/index.js?sourceMap!../../node_modules/_vue-loader@11.3.4@vue-loader/lib/style-compiler/index.js?{\"id\":\"data-v-3dbe9b44\",\"scoped\":false,\"hasInlineConfig\":true}!../../node_modules/_vux-loader@1.2.9@vux-loader/src/style-loader.js!../../node_modules/_vue-loader@11.3.4@vue-loader/lib/selector.js?type=styles&index=0!./TeamManage.vue");
      if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
      update(newContent);
    });
